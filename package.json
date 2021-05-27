@@ -1,10 +1,10 @@
 {
   "name": "login-auth0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Made with create-react-library",
-  "author": "sahilthakare-waycool",
+  "author": "Sahil Thakare",
   "license": "MIT",
-  "repository": "sahilthakare-waycool/login-auth0",
+  "repository": "Sahil Thakare/login-auth0",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -45,7 +45,10 @@
     "prettier": "^2.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.1",
+    "auth0-js": "^9.16.0",
+    "jwt-decode": "^3.1.2",
+    "web-vitals": "^1.1.2"
   },
   "files": [
     "dist"
